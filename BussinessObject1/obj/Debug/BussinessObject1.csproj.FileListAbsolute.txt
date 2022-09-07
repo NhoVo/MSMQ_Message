@@ -1,0 +1,8 @@
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\bin\Debug\BussinessObject1.exe.config
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\bin\Debug\BussinessObject1.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\bin\Debug\BussinessObject1.pdb
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\obj\Debug\BussinessObject1.csproj.AssemblyReference.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\obj\Debug\BussinessObject1.csproj.SuggestedBindingRedirects.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\obj\Debug\BussinessObject1.csproj.CoreCompileInputs.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\obj\Debug\BussinessObject1.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\BussinessObject1\obj\Debug\BussinessObject1.pdb

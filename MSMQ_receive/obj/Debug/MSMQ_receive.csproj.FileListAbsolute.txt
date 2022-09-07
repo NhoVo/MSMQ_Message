@@ -1,0 +1,16 @@
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\MSMQ_receive.exe.config
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\MSMQ_receive.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\MSMQ_receive.pdb
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\BussinessObject1.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\BussinessObject1.pdb
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\bin\Debug\BussinessObject1.exe.config
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.csproj.AssemblyReference.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.csproj.SuggestedBindingRedirects.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.Form1.resources
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.F_MessageReceive.resources
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.Properties.Resources.resources
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.csproj.GenerateResource.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.csproj.CoreCompileInputs.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.csproj.CopyComplete
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_receive\obj\Debug\MSMQ_receive.pdb

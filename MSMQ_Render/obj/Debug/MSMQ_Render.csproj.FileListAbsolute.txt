@@ -1,0 +1,15 @@
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\MSMQ_Render.exe.config
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\MSMQ_Render.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\MSMQ_Render.pdb
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\BussinessObject1.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\BussinessObject1.pdb
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\bin\Debug\BussinessObject1.exe.config
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.csproj.AssemblyReference.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.csproj.SuggestedBindingRedirects.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.F_MessageSender.resources
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.Properties.Resources.resources
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.csproj.GenerateResource.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.csproj.CoreCompileInputs.cache
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.csproj.CopyComplete
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.exe
+D:\HKI_2022-2023\KTPM\MSMQ_Demo\MSMQ_Demo1\MSMQ_Render\obj\Debug\MSMQ_Render.pdb
